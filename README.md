@@ -1,9 +1,8 @@
 # CTF_Writeups
 CTF tasks and write-ups
 
-
 ## Nullcon HackIM 2020 Writeups:
-- [Web - Ghost](https://github.com/issamelferkh/CTF_Writeups/blob/master/Nullcon_HackIM_2020/web_ghost.md)
+- [Web - Ghost](https://github.com/issamelferkh/CTF_Writeups/blob/master/nullcon_HackIM_2020/web_ghost.md)
 
 ## AUCTF 2020:
 - [Web: Miyazaki Trivia writeup](https://github.com/issamelferkh/CTF_Writeups/blob/master/AUCTF_2020/web_Miyazaki_Trivia/web_Miyazaki_Trivia.md)
